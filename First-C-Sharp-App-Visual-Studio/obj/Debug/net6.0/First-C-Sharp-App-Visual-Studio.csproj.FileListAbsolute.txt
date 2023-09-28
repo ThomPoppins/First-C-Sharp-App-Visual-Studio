@@ -1,0 +1,14 @@
+C:\Users\31616\Documents\Apps\First-C-Sharp-App-Visual-Studio\First-C-Sharp-App-Visual-Studio\bin\Debug\net6.0\First-C-Sharp-App-Visual-Studio.exe
+C:\Users\31616\Documents\Apps\First-C-Sharp-App-Visual-Studio\First-C-Sharp-App-Visual-Studio\bin\Debug\net6.0\First-C-Sharp-App-Visual-Studio.deps.json
+C:\Users\31616\Documents\Apps\First-C-Sharp-App-Visual-Studio\First-C-Sharp-App-Visual-Studio\bin\Debug\net6.0\First-C-Sharp-App-Visual-Studio.runtimeconfig.json
+C:\Users\31616\Documents\Apps\First-C-Sharp-App-Visual-Studio\First-C-Sharp-App-Visual-Studio\bin\Debug\net6.0\First-C-Sharp-App-Visual-Studio.dll
+C:\Users\31616\Documents\Apps\First-C-Sharp-App-Visual-Studio\First-C-Sharp-App-Visual-Studio\bin\Debug\net6.0\First-C-Sharp-App-Visual-Studio.pdb
+C:\Users\31616\Documents\Apps\First-C-Sharp-App-Visual-Studio\First-C-Sharp-App-Visual-Studio\obj\Debug\net6.0\First-C-Sharp-App-Visual-Studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31616\Documents\Apps\First-C-Sharp-App-Visual-Studio\First-C-Sharp-App-Visual-Studio\obj\Debug\net6.0\First-C-Sharp-App-Visual-Studio.AssemblyInfoInputs.cache
+C:\Users\31616\Documents\Apps\First-C-Sharp-App-Visual-Studio\First-C-Sharp-App-Visual-Studio\obj\Debug\net6.0\First-C-Sharp-App-Visual-Studio.AssemblyInfo.cs
+C:\Users\31616\Documents\Apps\First-C-Sharp-App-Visual-Studio\First-C-Sharp-App-Visual-Studio\obj\Debug\net6.0\First-C-Sharp-App-Visual-Studio.csproj.CoreCompileInputs.cache
+C:\Users\31616\Documents\Apps\First-C-Sharp-App-Visual-Studio\First-C-Sharp-App-Visual-Studio\obj\Debug\net6.0\First-C-Sharp-App-Visual-Studio.dll
+C:\Users\31616\Documents\Apps\First-C-Sharp-App-Visual-Studio\First-C-Sharp-App-Visual-Studio\obj\Debug\net6.0\refint\First-C-Sharp-App-Visual-Studio.dll
+C:\Users\31616\Documents\Apps\First-C-Sharp-App-Visual-Studio\First-C-Sharp-App-Visual-Studio\obj\Debug\net6.0\First-C-Sharp-App-Visual-Studio.pdb
+C:\Users\31616\Documents\Apps\First-C-Sharp-App-Visual-Studio\First-C-Sharp-App-Visual-Studio\obj\Debug\net6.0\First-C-Sharp-App-Visual-Studio.genruntimeconfig.cache
+C:\Users\31616\Documents\Apps\First-C-Sharp-App-Visual-Studio\First-C-Sharp-App-Visual-Studio\obj\Debug\net6.0\ref\First-C-Sharp-App-Visual-Studio.dll
